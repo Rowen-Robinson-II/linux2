@@ -11,11 +11,12 @@ For Part 1 Click Here:(https://github.com/Rowen-Robinson-II/linux1)
 
 - Linux
 - Ubuntu (20.04.6)
+- TryHackMe Attack Box
  
 
 <h2>Getting Started With Linux</h2>
 
-- SSH
+- SSH (Deploy)
 - Flags & Switches
 - Interacting With The File System (Continued)
 - Permissions 101
@@ -24,21 +25,22 @@ For Part 1 Click Here:(https://github.com/Rowen-Robinson-II/linux1)
 
 <h2>Commands In Linux</h2>
 
-<h3 align="center">Basic Commands</h3>
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/224982ff-78c4-4098-b866-09b2343d41fb">
+<h3 align="center">Using SSH to Login To A Linux Machine</h3>
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/ad2a2056-b6af-44a8-8ec8-deb9388007e3">
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/2fbf28ec-1a52-4c64-a318-e77dcace2158">
 </p>
 <p>
-After logging into the virtual machine I used two basic commands "echo" and "whoami". "echo" prints out any text provided, while "whoami" is used to determine what user is logged in. 
+To log into a Linux Machine using SSH you need the IP address of the machine and the proper credentials. I will log in using a TryHackMe Virtual Machine.
 </p>
 <br>
 <br>
 <br />
 
-<h3 align="center">Interacting With The Filesystem</h3>
+<h3 align="center">Flags & Switches</h3>
 <img width="521" alt="image" src="https://github.com/user-attachments/assets/800eb7b8-6ec3-4016-9621-2a4bd0f67057">
 </p>
 <p>
-Command "ls" list all available directories/folders in the current directory while the "cd" command allows you to change directories 
+A majority of commands allow for arguments to be provided. These arguments are identified by a hyphen and a certain keyword known as flags or switches. You can use cammands like "--help" to see which flags and switches are available to use.
 </p>
 <br>
 <br>
