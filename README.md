@@ -4,7 +4,7 @@
 
 <h1>Linux Fundamentals Part 2</h1>
 This tutorial outlines the some basic commands used in Linux<br />
-
+For Part 1 Click Here:(https://github.com/Rowen-Robinson-II/linux1)
 
 
 <h2>Environments and Operating Systems Used</h2>
@@ -15,10 +15,12 @@ This tutorial outlines the some basic commands used in Linux<br />
 
 <h2>Getting Started With Linux</h2>
 
-- Basic Commands
-- Interacting With The Filesystem
-- Searching For Files
-- Shell Operators
+- SSH
+- Flags & Switches
+- Interacting With The File System (Continued)
+- Permissions 101
+- Common Directories
+  
 
 <h2>Commands In Linux</h2>
 
